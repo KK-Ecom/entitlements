@@ -14,7 +14,7 @@ TABLES:
 ```
 
 EER DIAGRAM:
-
+![alt text](https://github.com/KK-Ecom/entitlements/blob/main/entitlements_EER.png)
 
 QUERY FOR ENTITLEMENTS OF A USER:
 ```sql
@@ -36,3 +36,4 @@ WHERE u.user_id = 2;
 ```
 
 OUTPUT:
+![alt text](https://github.com/KK-Ecom/entitlements/blob/main/user_role_info.png)
